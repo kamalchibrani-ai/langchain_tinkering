@@ -4,4 +4,3 @@ python-dotenv
 streamlit
 PyPDF2
 faiss-cpu
-tiktoken
